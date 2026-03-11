@@ -26,3 +26,5 @@
 **Cresça junto com a gente! [cite_start]FAÇA PARTE DA EJ TURING!** [cite: 91] 
 
 [cite_start]Está tudo interligado: colocar o J.E.T.T. em prática todos os dias é a garantia de que vamos alcançar nosso sonho grande, porque isso assegura a eficiência, a rentabilidade e a sustentabilidade do nosso negócio. [cite: 94]
+
+![Snake animation](https://github.com/EjTuring-Consultoria-e-Desenvolvimento/.github/blob/output/github-contribution-grid-snake.svg)
