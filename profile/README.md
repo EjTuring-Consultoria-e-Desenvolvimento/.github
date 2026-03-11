@@ -61,7 +61,3 @@ Valorizamos a troca de conhecimento e o potencial de cada membro.
 FAÇA PARTE DA EJ TURING!**
 
 ---
-
-## 🐍 Contribuições
-
-![Snake animation](https://raw.githubusercontent.com/EjTuring-Consultoria-e-Desenvolvimento/.github/output/github-contribution-grid-snake.svg)
